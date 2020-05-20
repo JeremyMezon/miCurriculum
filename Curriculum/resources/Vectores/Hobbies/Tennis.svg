@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F3EAEB;}
+	.st1{fill:#2596DC;}
+	.st2{fill:#F2EFEF;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.4512;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{clip-path:url(#SVGID_2_);}
+	.st6{fill:#FFECD6;}
+	.st7{opacity:0.3;fill:#2596DC;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#2596DC;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#F3EAEB;}
+</style>
+<circle class="st0" cx="539.94" cy="541.22" r="527.3"/>
+<g>
+	<circle class="st1" cx="548.64" cy="540.76" r="357.68"/>
+	<g>
+		<g>
+			<path class="st1" d="M735.77,235.67c35.62,55.61,56.27,121.72,56.27,192.66c0,197.54-160.14,357.68-357.68,357.68
+				c-68.61,0-132.69-19.33-187.13-52.82c63.57,99.24,174.8,165.02,301.4,165.02c197.54,0,357.68-160.14,357.68-357.68
+				C906.31,411.59,838.08,298.61,735.77,235.67z"/>
+			<path class="st1" d="M239.57,572.45c0-183.4,148.68-332.08,332.08-332.08c107.2,0,202.52,50.81,263.24,129.65
+				c-57.34-99.55-164.82-166.57-287.96-166.57c-183.4,0-332.08,148.68-332.08,332.08c0,76.2,25.68,146.39,68.84,202.43
+				C255.63,689.24,239.57,632.72,239.57,572.45z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="539.94" cy="541.22" r="378.29"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st5">
+			<g>
+				<g>
+					<path class="st2" d="M269.28,837.92l-23.89-25.8c30.57-28.3,55.88-61.44,75.22-98.48c38.27-73.26,50.06-158.83,33.2-240.95
+						c-15.89-77.38-58.87-149.07-121.02-201.87l22.76-26.79c68.11,57.86,115.24,136.55,132.7,221.59
+						c18.48,90.02,5.53,183.88-36.48,264.3C330.56,770.54,302.81,806.87,269.28,837.92z"/>
+				</g>
+				<g>
+					<path class="st2" d="M835.88,837.92c-33.52-31.04-61.28-67.38-82.5-108c-42.01-80.42-54.96-174.28-36.48-264.29
+						c17.46-85.04,64.59-163.74,132.7-221.59l22.76,26.79c-62.15,52.8-105.13,124.49-121.02,201.87
+						c-16.86,82.11-5.07,167.68,33.2,240.94c19.35,37.04,44.66,70.18,75.22,98.48L835.88,837.92z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
